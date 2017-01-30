@@ -1,0 +1,40 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+    background: -moz-radial-gradient(center, ellipse cover, rgba(153,218,255,1) 0%, rgba(98,98,240,1) 100%);
+background: -webkit-radial-gradient(center, ellipse cover, rgba(153,218,255,1) 0%, rgba(98,98,240,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(153,218,255,1) 0%, rgba(98,98,240,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(153,218,255,1) 0%, rgba(98,98,240,1) 100%);
+background: radial-gradient(ellipse at center, rgba(153,218,255,1) 0%, rgba(98,98,240,1) 100%);
+}
+
+#button_layout{
+     width: 100%;
+     height: 30px;
+    border: 5px solid green;
+/*    margin: 20px auto;*/
+    text-align: right;
+    background-color: lightblue;
+    margin:auto;
+}
+.group_save_button{
+    position: relative
+    margin:auto;
+    margin-left: -8px;
+    height: 100%;
+    width: 100px;
+    text-align: center;
+    border: 5px solid yellow;
+    background-color: beige
+}
+
+#imageView{
+    border: 5px solid black;
+}
