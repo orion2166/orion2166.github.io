@@ -63,3 +63,45 @@ background: radial-gradient(ellipse at center, rgba(153,218,255,1) 0%, rgba(98,9
 /*    background-image: url("../img/triathlon.jpg");*/
 /*    left: 200px; right: 200px;*/
 }
+
+
+#poster_img {
+    max-width: 100%;
+    max-height: 100%;
+/*    margin-bottom: 100px;*/
+/*    margin-right: 150px;*/
+/*    padding-right: 30px;*/
+/*    padding-bottom: 50px;*/
+/*    padding-left: 80px;*/
+}
+
+#personal_image_layout{
+/*    position: absolute*/
+    padding-top: 125px;
+    padding-bottom: 125px;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    margin:0 auto;
+    
+/*    object-fit: cover;*/
+/*    background-image: url("../img/triathlon.jpg");*/
+/*    left: 200px; right: 200px;*/
+}
+
+
+.group_style{
+    width:60%; 
+    margin:0 auto;
+    background-color: white;
+}
+.boder_style{
+    width: 100%;
+    box-sizing: border-box;
+    border: 8px solid green;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.header_underline{
+    border-bottom: 8px solid black;
+}
