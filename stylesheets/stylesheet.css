@@ -110,6 +110,7 @@ background: radial-gradient(ellipse at center, rgba(153,218,255,1) 0%, rgba(98,9
 .header_section{
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 10px;
     background-color:cadetblue;
     color: white;
 }
